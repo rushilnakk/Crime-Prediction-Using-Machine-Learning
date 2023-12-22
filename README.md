@@ -1,4 +1,5 @@
 # Crime-Prediction-Using-Machine-Learning
+![crime-prediction-ai-police-tape-yellow](https://github.com/rushilnakk/Crime-Prediction-Using-Machine-Learning/assets/78556727/73ed93d9-03e1-400a-bdb0-301d80c2025f)
 Performed binary classification to identify violent crimes in San Francisco using machine learning algorithms in R.
 
 # Business Problem
