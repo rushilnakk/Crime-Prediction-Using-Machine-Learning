@@ -12,7 +12,7 @@ San Francisco, California has long struggled with crime and safety concerns. In 
 The data used in this project was collected from [DataSF](https://datasf.org/opendata/), which is a site containing hundreds of data sets from the city of San Francisco. By navigating to the ‘Public Safety’ tab, I was able to find a crime data set that seemed to contain the most predictive variables for violent crimes. The data set I finally used is from 2016, due to its expansive number of records with minimal missing values.
 
 # Approach
-The biggest challenge was to identify the key feautures which are important to predict whether a crime incident will be violent or not. I first cleaned my data to remove redundant and insignificant predictors, and then performed **feature engineering** to create new variables to aid in prediction. Next, I performed **Exploratory Data Analysis** and tried to form a hypothesis based on intuition as well as the results from EDA. I then proceeded with my analysis by training the following three **machine learning models** to make predictions:
+The biggest challenge was to identify the key features that are important to predict whether a crime incident will be violent or not. I first cleaned my data to remove redundant and insignificant predictors, and then performed **feature engineering** to create new variables to aid in prediction. Next, I performed **Exploratory Data Analysis** and tried to form a hypothesis based on intuition as well as the results from EDA. I then proceeded with my analysis by training the following three **machine learning models** to make predictions:
 1. Decision Tree
 2. Naive Bayes
 3. Random Forest
